@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
+<script src="js/init.js"></script>
+<title>Дела - МХД</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<nav></nav><script src="js/nav.js"></script>
+<main>
+
+<h1>Сделки</h1>
+
+<p class="h">
+Формирование ресурсной базы для реализации проектов
+</p>
+
+
+
+</main><script src="js/main.js"></script>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>

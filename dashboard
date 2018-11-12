@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
+<script src="js/init.js"></script>
+<title>Обзор - МХД</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<nav></nav><script src="js/nav.js"></script>
+<main>
+
+<h1>Обзор</h1>
+
+<figure>
+<img src="img/dashboard/01.png">
+</figure>
+
+<figure>
+<img src="img/dashboard/02.jpg">
+</figure>
+
+<figure>
+<img src="img/dashboard/03.png">
+</figure>
+
+<h2>Активы (Assets)</h2>
+<figure>
+	<img src="img/dashboard/gr1.png">
+</figure>
+<p>
+Состояние счёта
+</p>
+
+<h2>Криптоактивы</h2>
+<figure>
+	<img src="img/dashboard/gr2.png">
+</figure>
+<p>
+Цифровые активы
+</p>
+
+
+
+
+</main><script src="js/main.js"></script>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>

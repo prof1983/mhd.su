@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=yes">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta name="msapplication-navbutton-color" content="#242424">
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424">
+<link rel="shortcut icon" href="img/favicon.png" type="image/png">
+<link rel="stylesheet" href="css/base.css">
+<script src="js/init.js"></script>
+<title>Кошелёк - МХД</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="js/header.js"></script>
+<nav></nav><script src="js/nav.js"></script>
+<main>
+
+<h1>Кошелёк (все активы)</h1>
+
+<p>
+Все активы в системе представлены тремя основными видамии: 1) стабильная расчетная единица, 2) "акции", 3) товарные токены - обозначают право на получение товара, договор купли продажи, форвардный контракт.
+</p>
+
+<h2>Деньги</h2>
+
+<p>
+Свой счёт: 12'345 LIBRE (~13'169 USD)
+<br/>
+Дал в долг: 9'642 LIBRE (~10'286 USD)
+<br/>
+Взял в долг: 0 LIBRE
+</p>
+
+<p>
+Итого: <b>21'987 LIBRE</b>
+</p>
+
+<p>
+Соответствует
+<br/>
+23'456 USD (курс 1,066812207)
+<br/>
+1'641'920 RUB ()
+</p>
+
+
+<h2>Доли владения (акции, паи)</h2>
+
+<p>
+Кафе "Ромашка" (100'000 / 1'000'000) (~15'695 USD)
+<br/>
+Гостинница "Три тополя" (2'000'000 / 10'000'000) (~50'000 USD)
+<br/>
+Транспортно-логистическая платформа (1'000 / 100'000'000) (~10'258 USD)
+<br/>
+Платформа мебели (2'000 / 100'000'000) (~24'047 USD)
+</p>
+
+<p>
+Управление активами
+</p>
+
+
+<h2>Запасы (товары и услуги, склады)</h2>
+
+<p>
+Тушенка (Златоуст)
+<br/>
+Аренда авто (Datenta)
+</p>
+
+
+
+
+</main><script src="js/main.js"></script>
+<footer></footer><script src="js/footer.js"></script>
+</body>
+</html>
