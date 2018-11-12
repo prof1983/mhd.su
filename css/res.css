@@ -1,0 +1,12 @@
+.s-res-ul {
+	display:inline-block;
+}
+.s-res-ul > li {
+	font-size: 2rem;
+	font-weight: 700;
+}
+.s-res-ul > li > a {
+	font-size: 2rem;
+	font-weight: 700;
+	text-decoration: none;
+}
