@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"/>
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="address=no">
+<meta name="theme-color" content="#242424">
+<meta name="msapplication-navbutton-color" content="#242424">
+<meta name="apple-mobile-web-app-status-bar-style" content="#242424">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="shortcut icon" type="image/png" href="/img/favicon.png">
+<link rel="stylesheet" href="/css/base.css">
+<title>License - МХД</title>
+</head>
+<body>
+<noscript>У вас отключен JavaScript. Сайт может отображаться некорректно. Рекомендуем включить JavaScript.</noscript>
+<header></header><script src="/js/header.js"></script>
+<nav></nav><script src="/js/nav.js"></script>
+<article>
+
+<h1>Лицензия</h1>
+
+<h2>CC0 1.0 Универсальная (CC0 1.0)</h2>
+
+<p>
+Вы можете копировать, изменять, распространять и исполнять данное произведение, даже в коммерческих целях, всё не спрашивая разрешения.
+</p>
+
+
+<h3>Другая информация</h3>
+
+<ul>
+
+<li>
+Ни в коем случае патентные права или права торговой марки любого лица не затрагиваются CC0, также как и права, которые другие лица могут иметь в данном произвдении, такие как права публичности или конфиденциальности.
+</li>
+
+<li>
+Если прямо не указано иное, лицо, которое связало произведение с этим Кратким описанием (Commons Deed), не даёт никаких гарантий относительно произведения и не несет ответственности за все виды использования произведения, в максимально возможной степени, допустимой применимым правом.
+</li>
+
+<li>
+При использовании или цитировании произведения вы не должны намекать на то, что вас поддерживает автор или лицо, утверждающее об этом.
+</li>
+</ul>
+
+<p>
+<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.ru" target="_blank">creativecommons.org/publicdomain/zero/1.0/deed.ru</a>
+</p>
+
+</article>
+<footer></footer><script src="/js/footer.js"></script>
+</body>
+</html>
