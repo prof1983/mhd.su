@@ -55,9 +55,10 @@ header {
 	/*width: 100%;*/
 	z-index: 1030;
 }
+header a { color: #bbb; }
 header a:visited { color: #bbb; }
-header a:hover { color: #bbb; }
-header a:active { color: #bbb; }
+header a:hover { color: #ccc; }
+header a:active { color: #ddd; }
 
 /*
 header {
