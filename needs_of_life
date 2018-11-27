@@ -3,12 +3,12 @@
 <head>
 <meta charset="utf-8"/>
 <meta http-equiv="Content-Language" content="ru"/>
-<link rel="stylesheet" href="/css/main.css"/>
+<link rel="stylesheet" href="css/base.css"/>
 <title>Жизненные потребности (список)</title>
 </head>
 <body>
 <header></header><script src="/js/header.js"></script>
-<main>
+<article>
 
 <h1>Жизненные потребности (список)</h1>
 
@@ -286,9 +286,8 @@
 </p>
 
 
-<nav class="main-footer-nav"><a href="/ru">Главная</a></nav>
 
-</main>
+</article>
 <footer><div class="footer__btm">7523-08-09 - 7526-08-22</div></footer><script src="/js/footer.js"></script>
 </body>
 </html>
