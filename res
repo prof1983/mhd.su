@@ -25,7 +25,7 @@
 
 <ul class="s-res-ul">
 <li><a href="want">Желания</a> (Хочу)
-<li><a href="need">Потребности</a>
+<li><a href="needs">Потребности</a>
 <li><a href="can">Возможности</a> (Могу)
 <li><a href="deal">Сделки</a> (Делаю)
 <li><a href="exchange">Биржа</a>
