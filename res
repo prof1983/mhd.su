@@ -46,38 +46,8 @@
 
 <p class="h">
 Ресурсная база (прототип): <a href="https://libre.life/res/ru" target="_blank">libre.life/res/ru</a>
-<br/>
-<a href="https://gbaharev.wixsite.com/deimoscow" target="_blank">gbaharev.wixsite.com/deimoscow</a>
 </p>
 
-
-<figure>
-<img src="img/neuromozg/00.jpg">
-</figure>
-
-<figure>
-<img src="img/neuromozg/01.jpg">
-</figure>
-
-<figure>
-<img src="img/neuromozg/02.jpg">
-</figure>
-
-<figure>
-<img src="img/neuromozg/03.jpg">
-</figure>
-
-<figure>
-<img src="img/neuromozg/04.jpg">
-</figure>
-
-<figure>
-<img src="img/neuromozg/05.png">
-</figure>
-
-<figure>
-<img src="img/neuromozg/06.jpg">
-</figure>
 
 
 
